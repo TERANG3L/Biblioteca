@@ -1,0 +1,7 @@
+Archivo abierto: 2025-05-12 12:06:17 - D:\C++\Mio\Bilioteca\x64\Release\Libros\Don Quijote De La Mancha.pdf
+Archivo abierto: 2025-05-12 12:07:23 - D:\C++\Mio\Bilioteca\x64\Release\Libros\Don Quijote De La Mancha.pdf
+Archivo abierto: 2025-05-12 12:12:44 - D:\C++\Mio\Bilioteca\x64\Release\Libros\Don Quijote De La Mancha.pdf
+Archivo abierto: 2025-05-12 12:13:39 - D:\C++\Mio\Bilioteca\x64\Release\Libros\100 Años de soledad.pdf
+Archivo abierto: 2025-05-12 12:13:43 - D:\C++\Mio\Bilioteca\x64\Release\Libros\Don Quijote De La Mancha.pdf
+Archivo abierto: 2025-05-12 12:13:46 - D:\C++\Mio\Bilioteca\x64\Release\Libros\El diario de Ana Frank.pdf
+Archivo abierto: 2025-05-12 12:21:06 - D:\C++\Mio\Bilioteca\x64\Release\Libros\Don Quijote De La Mancha.pdf
